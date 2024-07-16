@@ -8,5 +8,5 @@
 - libldap libldap-common ldap-utils
 
 Для корректной работы LDAPS можно сделать следующее:
-1) Импортировать корневой сертификат LDAP сервера и внести в ldap.conf следующую строку: TLS_CACERT     /etc/ssl/certs/ca-certificates.crt
+1) Импортировать корневой сертификат LDAP сервера и внести в ldap.conf следующую строку: TLS_CACERT <path_to_file>
 2) Игнорировать требования сертификата: TLS_REQCERT never
