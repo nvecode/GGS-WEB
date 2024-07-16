@@ -6,8 +6,8 @@ session_start();
 <head>
   <meta charset="utf-8">
   <title>Сервис сброса</title>
-  <link rel="stylesheet" href="main.css">
-  <link rel="icon" href="reset_icon.ico">
+  <link rel="stylesheet" href="css/main.css">
+  <link rel="icon" href="img/reset_icon.ico">
   <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css"> -->
 </head>
 <body>
